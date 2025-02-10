@@ -17,7 +17,7 @@ const Cards = () => {
                     <p className='py-2 border-b mx-8'>1 Granted User</p>
                     <p className='py-2 border-b mx-8'>Spendup to 2 GB</p>
                 </div>
-                <button className='bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3'>
+                <button className='bg-[#00df9a] text-black w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 transition-all duration-300 ease-in-out hover:bg-black hover:text-[#00df9a] hover:border hover:border-[#00df9a] hover:scale-105 hover:shadow-lg'>
                     Start Trial
                 </button>
             </div>
@@ -31,7 +31,7 @@ const Cards = () => {
                     <p className='py-2 border-b mx-8'>1 Granted User</p>
                     <p className='py-2 border-b mx-8'>Spendup to 2 GB</p>
                 </div>
-                <button className='bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3'>
+                <button className='bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 transition-all duration-300 ease-in-out hover:bg-[#00df9a] hover:text-black hover:scale-105 hover:shadow-2xl'>
                     Start Trial
                 </button>
             </div>
@@ -45,7 +45,7 @@ const Cards = () => {
                     <p className='py-2 border-b mx-8'>1 Granted User</p>
                     <p className='py-2 border-b mx-8'>Spendup to 2 GB</p>
                 </div>
-                <button className='bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3'>
+                <button className='bg-[#00df9a] text-black w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 transition-all duration-300 ease-in-out hover:bg-black hover:text-[#00df9a] hover:border hover:border-[#00df9a] hover:scale-105 hover:shadow-lg'>
                     Start Trial
                 </button>
             </div>

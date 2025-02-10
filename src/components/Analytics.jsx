@@ -23,9 +23,10 @@ const Analytics = () => {
                 customer behavior tracking, or operational performance monitoring, 
                 a well-designed Data Analytics Dashboard ensures seamless data management and enhanced business intelligence.
                 </p>
-                <button className='bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3'>
-                    Get Started
+                <button className='bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 transition-all duration-300 ease-in-out hover:bg-[#00df9a] hover:text-black hover:scale-105 hover:shadow-lg'>
+                     Get Started
                 </button>
+
             </div>
         </div>
     </div>
