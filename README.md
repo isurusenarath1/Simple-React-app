@@ -20,7 +20,7 @@ A simple React frontend application designed to assist with Data Analytics Help 
 ### Steps to Install
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/isurusenarath1/Simple-React-app.git
 
 # Navigate to the project directory
 cd your-repo
@@ -46,16 +46,6 @@ The project includes a **GitHub Actions Workflow** for CI/CD automation. The wor
 yarn build
 ```
 This will generate the production-ready files inside the `build` folder.
-
-## Contributing
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -m 'Add new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Open a pull request
-
-## License
-This project is licensed under the MIT License.
 
 ---
 
