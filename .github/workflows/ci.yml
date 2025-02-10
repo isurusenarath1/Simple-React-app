@@ -30,3 +30,6 @@ jobs:
 
       - name: Build React app
         run: yarn build
+
+      - name: Run tests
+        run: yarn test --passWithNoTests
