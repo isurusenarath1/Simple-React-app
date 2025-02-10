@@ -10,7 +10,7 @@ const Footer = () => {
   return (
     <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300'>
         <div>
-            <h1 className='w-full text-3xl font-bold text-[#00df9a]'>REACT. </h1>
+            <h1 className='w-full text-3xl font-bold text-[#00df9a]'>GRAW WiTH DATA. </h1>
             <p className='py-4'> A Data Analytics Dashboard provides a centralized platform to manage and analyze data efficiently. 
             By integrating multiple data sources, it enables organizations to track key performance indicators (KPIs).</p>
             <div className='flex justify-between md:w-[75%] my-6'>
