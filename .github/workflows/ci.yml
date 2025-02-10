@@ -24,15 +24,12 @@ jobs:
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
-        working-directory: Simple-React-app  # Add this if your package.json is inside a folder
 
       - name: Run tests
         run: yarn test --passWithNoTests
-        working-directory: Simple-React-app  # Add this if needed
 
       - name: Build React app
         run: yarn build
-        working-directory: Simple-React-app  # Add this if needed
 
 
       
